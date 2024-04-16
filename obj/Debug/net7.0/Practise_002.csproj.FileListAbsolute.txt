@@ -1,0 +1,1028 @@
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\appsettings.Development.json
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\appsettings.json
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\libman.json
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\Practise_002.staticwebassets.runtime.json
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\Practise_002.exe
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\Practise_002.deps.json
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\Practise_002.runtimeconfig.json
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\Practise_002.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\Practise_002.pdb
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\Azure.Core.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\Azure.Identity.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\Humanizer.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\Microsoft.Build.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\Mono.TextTemplating.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\Newtonsoft.Json.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\NuGet.Common.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\NuGet.Configuration.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\NuGet.Frameworks.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\NuGet.LibraryModel.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\NuGet.Packaging.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\NuGet.ProjectModel.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\NuGet.Protocol.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\NuGet.Versioning.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\System.CodeDom.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\System.Composition.Convention.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\System.Composition.Hosting.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\System.Composition.Runtime.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\System.Composition.TypedParts.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\System.Drawing.Common.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\System.Memory.Data.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\System.Runtime.Caching.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\System.Security.Permissions.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\System.Windows.Extensions.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\af\Humanizer.resources.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\ar\Humanizer.resources.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\az\Humanizer.resources.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\bg\Humanizer.resources.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\bn-BD\Humanizer.resources.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\cs\Humanizer.resources.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\da\Humanizer.resources.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\de\Humanizer.resources.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\el\Humanizer.resources.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\es\Humanizer.resources.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\fa\Humanizer.resources.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\fi-FI\Humanizer.resources.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\fr\Humanizer.resources.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\fr-BE\Humanizer.resources.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\he\Humanizer.resources.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\hr\Humanizer.resources.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\hu\Humanizer.resources.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\hy\Humanizer.resources.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\id\Humanizer.resources.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\is\Humanizer.resources.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\it\Humanizer.resources.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\ja\Humanizer.resources.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\ko-KR\Humanizer.resources.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\ku\Humanizer.resources.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\lv\Humanizer.resources.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\ms-MY\Humanizer.resources.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\mt\Humanizer.resources.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\nb\Humanizer.resources.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\nb-NO\Humanizer.resources.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\nl\Humanizer.resources.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\pl\Humanizer.resources.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\pt\Humanizer.resources.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\ro\Humanizer.resources.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\ru\Humanizer.resources.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\sk\Humanizer.resources.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\sl\Humanizer.resources.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\sr\Humanizer.resources.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\sr-Latn\Humanizer.resources.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\sv\Humanizer.resources.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\th-TH\Humanizer.resources.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\tr\Humanizer.resources.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\uk\Humanizer.resources.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\uz-Cyrl-UZ\Humanizer.resources.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\uz-Latn-UZ\Humanizer.resources.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\vi\Humanizer.resources.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\zh-CN\Humanizer.resources.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\zh-Hans\Humanizer.resources.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\zh-Hant\Humanizer.resources.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\Core Practise\Practise_002\Practise_002\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+F:\Core Practise\Practise_002\Practise_002\obj\Debug\net7.0\Practise_002.csproj.AssemblyReference.cache
+F:\Core Practise\Practise_002\Practise_002\obj\Debug\net7.0\Practise_002.GeneratedMSBuildEditorConfig.editorconfig
+F:\Core Practise\Practise_002\Practise_002\obj\Debug\net7.0\Practise_002.AssemblyInfoInputs.cache
+F:\Core Practise\Practise_002\Practise_002\obj\Debug\net7.0\Practise_002.AssemblyInfo.cs
+F:\Core Practise\Practise_002\Practise_002\obj\Debug\net7.0\Practise_002.csproj.CoreCompileInputs.cache
+F:\Core Practise\Practise_002\Practise_002\obj\Debug\net7.0\Practise_002.MvcApplicationPartsAssemblyInfo.cache
+F:\Core Practise\Practise_002\Practise_002\obj\Debug\net7.0\Practise_002.RazorAssemblyInfo.cache
+F:\Core Practise\Practise_002\Practise_002\obj\Debug\net7.0\Practise_002.RazorAssemblyInfo.cs
+F:\Core Practise\Practise_002\Practise_002\obj\Debug\net7.0\staticwebassets\msbuild.Practise_002.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Core Practise\Practise_002\Practise_002\obj\Debug\net7.0\staticwebassets\msbuild.build.Practise_002.props
+F:\Core Practise\Practise_002\Practise_002\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Practise_002.props
+F:\Core Practise\Practise_002\Practise_002\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Practise_002.props
+F:\Core Practise\Practise_002\Practise_002\obj\Debug\net7.0\staticwebassets.pack.json
+F:\Core Practise\Practise_002\Practise_002\obj\Debug\net7.0\staticwebassets.build.json
+F:\Core Practise\Practise_002\Practise_002\obj\Debug\net7.0\staticwebassets.development.json
+F:\Core Practise\Practise_002\Practise_002\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+F:\Core Practise\Practise_002\Practise_002\obj\Debug\net7.0\scopedcss\bundle\Practise_002.styles.css
+F:\Core Practise\Practise_002\Practise_002\obj\Debug\net7.0\scopedcss\projectbundle\Practise_002.bundle.scp.css
+F:\Core Practise\Practise_002\Practise_002\obj\Debug\net7.0\Practise_002.csproj.CopyComplete
+F:\Core Practise\Practise_002\Practise_002\obj\Debug\net7.0\Practise_002.dll
+F:\Core Practise\Practise_002\Practise_002\obj\Debug\net7.0\refint\Practise_002.dll
+F:\Core Practise\Practise_002\Practise_002\obj\Debug\net7.0\Practise_002.pdb
+F:\Core Practise\Practise_002\Practise_002\obj\Debug\net7.0\Practise_002.genruntimeconfig.cache
+F:\Core Practise\Practise_002\Practise_002\obj\Debug\net7.0\ref\Practise_002.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\appsettings.json
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\libman.json
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\Practise_002.staticwebassets.runtime.json
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\Practise_002.exe
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\Practise_002.deps.json
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\Practise_002.runtimeconfig.json
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\Practise_002.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\Practise_002.pdb
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\Microsoft.Build.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\NuGet.Common.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\NuGet.Configuration.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\NuGet.Frameworks.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\NuGet.LibraryModel.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\NuGet.Packaging.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\NuGet.ProjectModel.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\NuGet.Protocol.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\NuGet.Versioning.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\System.Composition.Convention.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\System.Composition.Hosting.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\System.Composition.Runtime.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\System.Composition.TypedParts.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\af\Humanizer.resources.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\ar\Humanizer.resources.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\az\Humanizer.resources.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\bg\Humanizer.resources.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\bn-BD\Humanizer.resources.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\cs\Humanizer.resources.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\da\Humanizer.resources.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\de\Humanizer.resources.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\el\Humanizer.resources.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\es\Humanizer.resources.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\fa\Humanizer.resources.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\fi-FI\Humanizer.resources.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\fr\Humanizer.resources.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\fr-BE\Humanizer.resources.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\he\Humanizer.resources.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\hr\Humanizer.resources.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\hu\Humanizer.resources.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\hy\Humanizer.resources.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\id\Humanizer.resources.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\is\Humanizer.resources.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\it\Humanizer.resources.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\ja\Humanizer.resources.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\ko-KR\Humanizer.resources.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\ku\Humanizer.resources.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\lv\Humanizer.resources.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\ms-MY\Humanizer.resources.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\mt\Humanizer.resources.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\nb\Humanizer.resources.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\nb-NO\Humanizer.resources.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\nl\Humanizer.resources.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\pl\Humanizer.resources.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\pt\Humanizer.resources.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\ro\Humanizer.resources.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\ru\Humanizer.resources.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\sk\Humanizer.resources.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\sl\Humanizer.resources.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\sr\Humanizer.resources.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\sr-Latn\Humanizer.resources.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\sv\Humanizer.resources.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\th-TH\Humanizer.resources.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\tr\Humanizer.resources.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\uk\Humanizer.resources.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\vi\Humanizer.resources.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\zh-CN\Humanizer.resources.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\zh-Hans\Humanizer.resources.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\zh-Hant\Humanizer.resources.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\obj\Debug\net7.0\Practise_002.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\obj\Debug\net7.0\Practise_002.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\obj\Debug\net7.0\Practise_002.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\obj\Debug\net7.0\Practise_002.AssemblyInfo.cs
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\obj\Debug\net7.0\Practise_002.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\obj\Debug\net7.0\Practise_002.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\obj\Debug\net7.0\Practise_002.RazorAssemblyInfo.cache
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\obj\Debug\net7.0\Practise_002.RazorAssemblyInfo.cs
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\obj\Debug\net7.0\staticwebassets\msbuild.Practise_002.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\obj\Debug\net7.0\staticwebassets\msbuild.build.Practise_002.props
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Practise_002.props
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Practise_002.props
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\obj\Debug\net7.0\scopedcss\bundle\Practise_002.styles.css
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\obj\Debug\net7.0\scopedcss\projectbundle\Practise_002.bundle.scp.css
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\obj\Debug\net7.0\Practise_002.csproj.CopyComplete
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\obj\Debug\net7.0\Practise_002.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\obj\Debug\net7.0\refint\Practise_002.dll
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\obj\Debug\net7.0\Practise_002.pdb
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\obj\Debug\net7.0\Practise_002.genruntimeconfig.cache
+C:\Users\Dell\Desktop\New folder\Practise_002\Practise_002\obj\Debug\net7.0\ref\Practise_002.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\appsettings.Development.json
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\appsettings.json
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\libman.json
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\Practise_002.staticwebassets.runtime.json
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\Practise_002.exe
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\Practise_002.deps.json
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\Practise_002.runtimeconfig.json
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\Practise_002.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\Practise_002.pdb
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\Azure.Core.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\Azure.Identity.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\Humanizer.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\Microsoft.Build.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\Mono.TextTemplating.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\Newtonsoft.Json.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\NuGet.Common.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\NuGet.Configuration.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\NuGet.Frameworks.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\NuGet.LibraryModel.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\NuGet.Packaging.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\NuGet.ProjectModel.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\NuGet.Protocol.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\NuGet.Versioning.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\System.CodeDom.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\System.Composition.Convention.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\System.Composition.Hosting.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\System.Composition.Runtime.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\System.Composition.TypedParts.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\System.Memory.Data.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\System.Runtime.Caching.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\af\Humanizer.resources.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\ar\Humanizer.resources.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\az\Humanizer.resources.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\bg\Humanizer.resources.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\bn-BD\Humanizer.resources.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\cs\Humanizer.resources.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\da\Humanizer.resources.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\de\Humanizer.resources.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\el\Humanizer.resources.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\es\Humanizer.resources.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\fa\Humanizer.resources.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\fi-FI\Humanizer.resources.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\fr\Humanizer.resources.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\fr-BE\Humanizer.resources.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\he\Humanizer.resources.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\hr\Humanizer.resources.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\hu\Humanizer.resources.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\hy\Humanizer.resources.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\id\Humanizer.resources.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\is\Humanizer.resources.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\it\Humanizer.resources.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\ja\Humanizer.resources.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\ko-KR\Humanizer.resources.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\ku\Humanizer.resources.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\lv\Humanizer.resources.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\ms-MY\Humanizer.resources.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\mt\Humanizer.resources.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\nb\Humanizer.resources.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\nb-NO\Humanizer.resources.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\nl\Humanizer.resources.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\pl\Humanizer.resources.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\pt\Humanizer.resources.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\ro\Humanizer.resources.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\ru\Humanizer.resources.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\sk\Humanizer.resources.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\sl\Humanizer.resources.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\sr\Humanizer.resources.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\sr-Latn\Humanizer.resources.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\sv\Humanizer.resources.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\th-TH\Humanizer.resources.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\tr\Humanizer.resources.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\uk\Humanizer.resources.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\uz-Cyrl-UZ\Humanizer.resources.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\uz-Latn-UZ\Humanizer.resources.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\vi\Humanizer.resources.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\zh-CN\Humanizer.resources.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\zh-Hans\Humanizer.resources.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\zh-Hant\Humanizer.resources.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\obj\Debug\net7.0\Practise_002.csproj.AssemblyReference.cache
+E:\Desktop file\New folder\Practise_002\Practise_002\obj\Debug\net7.0\Practise_002.GeneratedMSBuildEditorConfig.editorconfig
+E:\Desktop file\New folder\Practise_002\Practise_002\obj\Debug\net7.0\Practise_002.AssemblyInfoInputs.cache
+E:\Desktop file\New folder\Practise_002\Practise_002\obj\Debug\net7.0\Practise_002.AssemblyInfo.cs
+E:\Desktop file\New folder\Practise_002\Practise_002\obj\Debug\net7.0\Practise_002.csproj.CoreCompileInputs.cache
+E:\Desktop file\New folder\Practise_002\Practise_002\obj\Debug\net7.0\Practise_002.MvcApplicationPartsAssemblyInfo.cache
+E:\Desktop file\New folder\Practise_002\Practise_002\obj\Debug\net7.0\Practise_002.RazorAssemblyInfo.cache
+E:\Desktop file\New folder\Practise_002\Practise_002\obj\Debug\net7.0\Practise_002.RazorAssemblyInfo.cs
+E:\Desktop file\New folder\Practise_002\Practise_002\obj\Debug\net7.0\staticwebassets.build.json
+E:\Desktop file\New folder\Practise_002\Practise_002\obj\Debug\net7.0\staticwebassets.development.json
+E:\Desktop file\New folder\Practise_002\Practise_002\obj\Debug\net7.0\staticwebassets\msbuild.Practise_002.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Desktop file\New folder\Practise_002\Practise_002\obj\Debug\net7.0\staticwebassets\msbuild.build.Practise_002.props
+E:\Desktop file\New folder\Practise_002\Practise_002\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Practise_002.props
+E:\Desktop file\New folder\Practise_002\Practise_002\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Practise_002.props
+E:\Desktop file\New folder\Practise_002\Practise_002\obj\Debug\net7.0\staticwebassets.pack.json
+E:\Desktop file\New folder\Practise_002\Practise_002\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\Desktop file\New folder\Practise_002\Practise_002\obj\Debug\net7.0\scopedcss\bundle\Practise_002.styles.css
+E:\Desktop file\New folder\Practise_002\Practise_002\obj\Debug\net7.0\scopedcss\projectbundle\Practise_002.bundle.scp.css
+E:\Desktop file\New folder\Practise_002\Practise_002\obj\Debug\net7.0\Practise.8F2B12AF.Up2Date
+E:\Desktop file\New folder\Practise_002\Practise_002\obj\Debug\net7.0\Practise_002.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\obj\Debug\net7.0\refint\Practise_002.dll
+E:\Desktop file\New folder\Practise_002\Practise_002\obj\Debug\net7.0\Practise_002.pdb
+E:\Desktop file\New folder\Practise_002\Practise_002\obj\Debug\net7.0\Practise_002.genruntimeconfig.cache
+E:\Desktop file\New folder\Practise_002\Practise_002\obj\Debug\net7.0\ref\Practise_002.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\appsettings.json
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\libman.json
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\Practise_002.staticwebassets.runtime.json
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\Practise_002.exe
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\Practise_002.deps.json
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\Practise_002.runtimeconfig.json
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\Practise_002.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\Practise_002.pdb
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\Microsoft.Build.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\NuGet.Common.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\NuGet.Configuration.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\NuGet.Frameworks.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\NuGet.LibraryModel.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\NuGet.Packaging.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\NuGet.ProjectModel.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\NuGet.Protocol.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\NuGet.Versioning.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\System.Composition.Convention.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\System.Composition.Hosting.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\System.Composition.Runtime.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\System.Composition.TypedParts.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\af\Humanizer.resources.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\ar\Humanizer.resources.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\az\Humanizer.resources.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\bg\Humanizer.resources.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\bn-BD\Humanizer.resources.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\cs\Humanizer.resources.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\da\Humanizer.resources.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\de\Humanizer.resources.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\el\Humanizer.resources.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\es\Humanizer.resources.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\fa\Humanizer.resources.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\fi-FI\Humanizer.resources.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\fr\Humanizer.resources.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\fr-BE\Humanizer.resources.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\he\Humanizer.resources.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\hr\Humanizer.resources.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\hu\Humanizer.resources.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\hy\Humanizer.resources.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\id\Humanizer.resources.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\is\Humanizer.resources.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\it\Humanizer.resources.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\ja\Humanizer.resources.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\ko-KR\Humanizer.resources.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\ku\Humanizer.resources.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\lv\Humanizer.resources.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\ms-MY\Humanizer.resources.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\mt\Humanizer.resources.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\nb\Humanizer.resources.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\nb-NO\Humanizer.resources.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\nl\Humanizer.resources.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\pl\Humanizer.resources.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\pt\Humanizer.resources.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\ro\Humanizer.resources.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\ru\Humanizer.resources.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\sk\Humanizer.resources.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\sl\Humanizer.resources.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\sr\Humanizer.resources.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\sr-Latn\Humanizer.resources.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\sv\Humanizer.resources.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\th-TH\Humanizer.resources.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\tr\Humanizer.resources.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\uk\Humanizer.resources.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\vi\Humanizer.resources.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\zh-CN\Humanizer.resources.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\zh-Hans\Humanizer.resources.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\zh-Hant\Humanizer.resources.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\obj\Debug\net7.0\Practise_002.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\obj\Debug\net7.0\Practise_002.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\obj\Debug\net7.0\Practise_002.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\obj\Debug\net7.0\Practise_002.AssemblyInfo.cs
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\obj\Debug\net7.0\Practise_002.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\obj\Debug\net7.0\Practise_002.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\obj\Debug\net7.0\Practise_002.RazorAssemblyInfo.cache
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\obj\Debug\net7.0\Practise_002.RazorAssemblyInfo.cs
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\obj\Debug\net7.0\staticwebassets\msbuild.Practise_002.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\obj\Debug\net7.0\staticwebassets\msbuild.build.Practise_002.props
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Practise_002.props
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Practise_002.props
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\obj\Debug\net7.0\scopedcss\bundle\Practise_002.styles.css
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\obj\Debug\net7.0\scopedcss\projectbundle\Practise_002.bundle.scp.css
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\obj\Debug\net7.0\Practise.8F2B12AF.Up2Date
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\obj\Debug\net7.0\Practise_002.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\obj\Debug\net7.0\refint\Practise_002.dll
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\obj\Debug\net7.0\Practise_002.pdb
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\obj\Debug\net7.0\Practise_002.genruntimeconfig.cache
+C:\Users\Dell\Desktop\All Project\Core_Project_with_Paging_Searching_Sorting\Practise_002\obj\Debug\net7.0\ref\Practise_002.dll
